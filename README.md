@@ -24,7 +24,7 @@ Aquí tienes una vista previa de la página:
 
 ![image](https://github.com/AlexisVennegas/Ajolotes/assets/107916070/0c4ea3ee-2ca3-4ef7-8ef1-706d24b1da2e)
 
-![Link](https://alexisvennegas.github.io/Ajolotes)
+https://alexisvennegas.github.io/Ajolotes
 
 
 ## Instalación y Uso
